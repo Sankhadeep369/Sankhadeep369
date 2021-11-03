@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sankhadeep369
+- 👋 Hi, I’m Sankhadeep
 - 👀 I’m interested in Artificial Intelegence and Machine Learning
-- 🌱 I’m currently learning R and PHP
+- 🌱 I’m currently learning R and Keras
 - 💞️ I’m looking to collaborate on Android apps and AI projects
 - 📫 How to reach me coolsankh369@gmail.com
 
