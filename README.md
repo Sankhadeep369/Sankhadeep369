@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sankhadeep
-- 👀 I’m interested in Artificial Intelegence and Machine Learning
+- 👀 I’m interested in Android and Data Science
 - 🌱 I’m currently learning R and Keras
 - 💞️ I’m looking to collaborate on Android apps and AI projects
 - 📫 How to reach me coolsankh369@gmail.com
